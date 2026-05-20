@@ -1,0 +1,501 @@
+ARTIST_ID,ARTIST_NAME,GENRE,COUNTRY,UPDATED_AT
+1,Lauren Singleton,Rock,Oman,2025-09-26 19:49:55.000
+2,Gregory Mccarty,Classical,Suriname,2025-09-23 19:49:55.000
+3,Adam Stanton,Hip-Hop,Anguilla,2025-09-09 19:49:55.000
+4,Monica Roth,Jazz,Argentina,2025-09-15 19:49:55.000
+5,Calvin Blake,Rock,Greenland,2025-09-18 19:49:55.000
+6,James Lowe,Pop,Saudi Arabia,2025-09-17 19:49:55.000
+7,Jacqueline Evans,Jazz,Syrian Arab Republic,2025-09-10 19:49:55.000
+8,Paul Johnson,Electronic,Bangladesh,2025-09-19 19:49:55.000
+9,Alexa Garcia,Rock,Burkina Faso,2025-09-09 19:49:55.000
+10,Robert Ellis,Rock,Ecuador,2025-09-19 19:49:55.000
+11,Madison Acosta,Hip-Hop,Korea,2025-09-13 19:49:55.000
+12,Robert Adams,Electronic,Czech Republic,2025-09-21 19:49:55.000
+13,Peter Watson,Hip-Hop,Moldova,2025-10-06 19:49:55.000
+14,Jordan Schmidt,Rock,Pitcairn Islands,2025-10-07 19:49:55.000
+15,Jody Hicks,Rock,Marshall Islands,2025-09-29 19:49:55.000
+16,William Cox,Pop,Aruba,2025-09-12 19:49:55.000
+17,Susan Valdez,Classical,Palau,2025-10-02 19:49:55.000
+18,Ms. Kimberly Cunningham,Rock,Iraq,2025-09-21 19:49:55.000
+19,Christopher Hoffman,Rock,Botswana,2025-09-20 19:49:55.000
+20,Kelly Brown,Electronic,Nicaragua,2025-09-25 19:49:55.000
+21,Laura Wade,Hip-Hop,Gambia,2025-09-21 19:49:55.000
+22,Brad Martinez,Classical,Malawi,2025-09-17 19:49:55.000
+23,Krystal Myers,Pop,Croatia,2025-09-28 19:49:55.000
+24,Ronald Bray,Hip-Hop,Estonia,2025-09-23 19:49:55.000
+25,Alfred Wiley,Pop,Gabon,2025-09-08 19:49:55.000
+26,Jennifer Nixon,Pop,Oman,2025-09-29 19:49:55.000
+27,Wanda Thomas,Rock,Norway,2025-10-02 19:49:55.000
+28,Jessica Jones,Classical,Holy See (Vatican City State),2025-09-11 19:49:55.000
+29,Kendra Bates,Hip-Hop,Botswana,2025-09-14 19:49:55.000
+30,Henry Johnson,Hip-Hop,Georgia,2025-09-30 19:49:55.000
+31,Alexandra Decker,Hip-Hop,Liechtenstein,2025-09-10 19:49:55.000
+32,Willie Gonzalez,Hip-Hop,Myanmar,2025-09-11 19:49:55.000
+33,Laura Marshall,Classical,Albania,2025-10-04 19:49:55.000
+34,Emily Case,Pop,Martinique,2025-09-10 19:49:55.000
+35,Steve Myers,Pop,British Indian Ocean Territory (Chagos Archipelago),2025-10-07 19:49:55.000
+36,Jaime Wells,Classical,Malawi,2025-10-03 19:49:55.000
+37,Savannah Riggs,Classical,Australia,2025-09-08 19:49:55.000
+38,Samantha Winters,Electronic,Macao,2025-09-26 19:49:55.000
+39,Roger Hobbs,Electronic,Saudi Arabia,2025-09-28 19:49:55.000
+40,Karen Meyer,Electronic,Malawi,2025-10-05 19:49:55.000
+41,Jennifer Fitzpatrick,Rock,Sweden,2025-09-28 19:49:55.000
+42,Kathryn Hicks,Electronic,Bosnia and Herzegovina,2025-10-05 19:49:55.000
+43,Matthew Brown,Electronic,Qatar,2025-09-28 19:49:55.000
+44,Dawn Robbins,Hip-Hop,Northern Mariana Islands,2025-10-07 19:49:55.000
+45,Paige Mays,Hip-Hop,Saint Martin,2025-09-22 19:49:55.000
+46,Rebecca Stark,Rock,Northern Mariana Islands,2025-10-01 19:49:55.000
+47,Danielle Smith,Pop,Congo,2025-09-24 19:49:55.000
+48,Alex Jacobs,Pop,Timor-Leste,2025-09-07 19:49:55.000
+49,Annette Robertson,Hip-Hop,Pitcairn Islands,2025-09-19 19:49:55.000
+50,Jeffrey Gray,Hip-Hop,Bangladesh,2025-09-17 19:49:55.000
+51,Colin Smith,Electronic,Nauru,2025-09-23 19:49:55.000
+52,Susan Quinn,Pop,Kiribati,2025-09-18 19:49:55.000
+53,Daniel Gallegos,Electronic,Grenada,2025-10-01 19:49:55.000
+54,Heather Baker,Hip-Hop,Cameroon,2025-10-02 19:49:55.000
+55,Jared Nguyen,Rock,Uzbekistan,2025-10-07 19:49:55.000
+56,Margaret White,Pop,Oman,2025-09-07 19:49:55.000
+57,Kendra Gamble,Classical,Martinique,2025-09-18 19:49:55.000
+58,Diana Smith,Rock,Nauru,2025-09-11 19:49:55.000
+59,Robert Crawford,Classical,Uruguay,2025-09-25 19:49:55.000
+60,Joshua Parsons,Pop,Austria,2025-09-23 19:49:55.000
+61,Barbara Matthews,Pop,Tunisia,2025-09-15 19:49:55.000
+62,Jennifer Gonzalez,Electronic,Bermuda,2025-09-10 19:49:55.000
+63,Katherine Allen,Rock,Ecuador,2025-09-18 19:49:55.000
+64,Angela Campbell,Jazz,Congo,2025-09-25 19:49:55.000
+65,Stephanie Miles,Rock,Azerbaijan,2025-09-25 19:49:55.000
+66,Connie Davis,Hip-Hop,Reunion,2025-09-16 19:49:55.000
+67,Susan Mooney,Rock,Guatemala,2025-09-21 19:49:55.000
+68,Ashley Park,Jazz,Saint Lucia,2025-09-19 19:49:55.000
+69,Eric Murphy,Rock,Congo,2025-09-26 19:49:55.000
+70,Michele Williams,Jazz,Saint Martin,2025-09-17 19:49:55.000
+71,Dwayne Adams,Pop,Turkey,2025-09-15 19:49:55.000
+72,Janet Bradley,Jazz,Thailand,2025-09-19 19:49:55.000
+73,Peggy Murray,Electronic,Puerto Rico,2025-09-16 19:49:55.000
+74,Gail Martinez,Electronic,Switzerland,2025-09-10 19:49:55.000
+75,Sherry Smith,Jazz,Burundi,2025-09-18 19:49:55.000
+76,Alexis Baker,Hip-Hop,Algeria,2025-10-06 19:49:55.000
+77,Alexander Robinson,Jazz,Comoros,2025-09-08 19:49:55.000
+78,John Garcia,Pop,Martinique,2025-09-12 19:49:55.000
+79,Molly Hernandez,Hip-Hop,Honduras,2025-10-06 19:49:55.000
+80,David Wall,Hip-Hop,Finland,2025-09-08 19:49:55.000
+81,Carol Prince,Pop,Ireland,2025-09-09 19:49:55.000
+82,Matthew Rodriguez,Jazz,Korea,2025-09-10 19:49:55.000
+83,Matthew Foster,Hip-Hop,Saint Vincent and the Grenadines,2025-09-27 19:49:55.000
+84,Austin Mitchell,Electronic,Jersey,2025-10-01 19:49:55.000
+85,Douglas White,Hip-Hop,Antigua and Barbuda,2025-09-15 19:49:55.000
+86,Austin Lee,Jazz,Martinique,2025-09-22 19:49:55.000
+87,Molly Hawkins,Jazz,French Southern Territories,2025-09-19 19:49:55.000
+88,Shawn King,Classical,Hungary,2025-09-24 19:49:55.000
+89,Julie Jacobs,Rock,Ghana,2025-09-26 19:49:55.000
+90,Carolyn Spencer,Hip-Hop,Korea,2025-10-06 19:49:55.000
+91,Karen Vega,Rock,Malta,2025-09-22 19:49:55.000
+92,Hannah Heath,Classical,Ecuador,2025-10-04 19:49:55.000
+93,Alexandra Johnson,Classical,Iceland,2025-09-23 19:49:55.000
+94,Emily Joseph,Pop,Puerto Rico,2025-10-05 19:49:55.000
+95,Troy Wilson,Classical,Bhutan,2025-09-09 19:49:55.000
+96,Jason Romero,Electronic,Tonga,2025-09-26 19:49:55.000
+97,Ashley Armstrong,Hip-Hop,Swaziland,2025-09-16 19:49:55.000
+98,Joshua Barker,Jazz,Central African Republic,2025-09-28 19:49:55.000
+99,Daniel Ramirez,Classical,Iceland,2025-09-10 19:49:55.000
+100,Steven Patterson,Pop,United Kingdom,2025-09-19 19:49:55.000
+101,Michael Anderson,Pop,Saint Helena,2025-09-23 19:49:55.000
+102,Dominique Torres,Electronic,Bosnia and Herzegovina,2025-09-30 19:49:55.000
+103,James Johns,Hip-Hop,Niger,2025-09-07 19:49:55.000
+104,Tonya Wiggins,Jazz,Norfolk Island,2025-09-30 19:49:55.000
+105,Francisco Scott,Pop,Eritrea,2025-10-07 19:49:55.000
+106,Thomas Green,Classical,Antigua and Barbuda,2025-09-11 19:49:55.000
+107,Eduardo Rodriguez,Electronic,Congo,2025-10-07 19:49:55.000
+108,Charles Allen,Electronic,Fiji,2025-09-11 19:49:55.000
+109,Brenda Decker,Jazz,Saint Helena,2025-10-05 19:49:55.000
+110,Erica Day,Hip-Hop,Kiribati,2025-09-10 19:49:55.000
+111,Robin Jackson,Jazz,Antarctica (the territory South of 60 deg S),2025-09-15 19:49:55.000
+112,Jeremy Young,Hip-Hop,Reunion,2025-10-07 19:49:55.000
+113,Renee Knight,Classical,Eritrea,2025-09-23 19:49:55.000
+114,Emily Orr,Pop,Israel,2025-09-25 19:49:55.000
+115,Debra Murray,Jazz,Moldova,2025-09-22 19:49:55.000
+116,Michael Sanchez,Rock,Barbados,2025-09-13 19:49:55.000
+117,Henry Jones,Rock,Bahrain,2025-09-11 19:49:55.000
+118,Christy Zhang,Classical,Azerbaijan,2025-09-21 19:49:55.000
+119,Melissa Larson,Classical,Poland,2025-09-17 19:49:55.000
+120,Stephen Nelson,Rock,Hong Kong,2025-10-03 19:49:55.000
+121,Michael Ross,Pop,Bahamas,2025-09-30 19:49:55.000
+122,Ann James,Electronic,Bahamas,2025-09-26 19:49:55.000
+123,Anthony Lane,Classical,Maldives,2025-09-27 19:49:55.000
+124,Theresa Newman,Classical,Sudan,2025-10-07 19:49:55.000
+125,Jennifer Snyder,Jazz,Slovenia,2025-09-27 19:49:55.000
+126,Shannon Alvarez,Hip-Hop,Bahamas,2025-09-07 19:49:55.000
+127,Krista Morris,Classical,Indonesia,2025-09-16 19:49:55.000
+128,Ryan Warren,Rock,Saint Vincent and the Grenadines,2025-09-09 19:49:55.000
+129,David Williams,Jazz,Samoa,2025-09-21 19:49:55.000
+130,James Gonzalez,Classical,Estonia,2025-10-02 19:49:55.000
+131,Victor Kelley,Classical,Kazakhstan,2025-10-05 19:49:55.000
+132,Benjamin Brown,Electronic,Tokelau,2025-09-27 19:49:55.000
+133,Heather Lang MD,Pop,Pakistan,2025-09-17 19:49:55.000
+134,Eric Conner,Classical,Saint Pierre and Miquelon,2025-09-30 19:49:55.000
+135,Brandon Davis,Hip-Hop,Maldives,2025-09-30 19:49:55.000
+136,Steven Wilson,Rock,Sudan,2025-09-25 19:49:55.000
+137,Charles Perry,Electronic,Zimbabwe,2025-10-04 19:49:55.000
+138,Jose Gray,Classical,Zambia,2025-09-24 19:49:55.000
+139,John Garcia MD,Classical,Cocos (Keeling) Islands,2025-09-12 19:49:55.000
+140,Ian Phillips,Hip-Hop,Antarctica (the territory South of 60 deg S),2025-09-07 19:49:55.000
+141,Kristin Juarez,Hip-Hop,Reunion,2025-09-29 19:49:55.000
+142,Bridget Figueroa,Hip-Hop,Jordan,2025-09-19 19:49:55.000
+143,Donald Little,Rock,Poland,2025-10-03 19:49:55.000
+144,Susan Wagner,Pop,Falkland Islands (Malvinas),2025-10-02 19:49:55.000
+145,Michael Berg,Hip-Hop,Trinidad and Tobago,2025-09-14 19:49:55.000
+146,Cheryl Ward,Jazz,Taiwan,2025-10-01 19:49:55.000
+147,Stephen Randolph,Classical,Singapore,2025-10-04 19:49:55.000
+148,Dawn Graham,Hip-Hop,Anguilla,2025-10-05 19:49:55.000
+149,Kayla Wilkins,Jazz,Peru,2025-09-17 19:49:55.000
+150,Jonathan Welch,Jazz,Martinique,2025-09-07 19:49:55.000
+151,Amber Gregory,Rock,Saint Pierre and Miquelon,2025-10-07 19:49:55.000
+152,Gregory Morrow,Rock,Bouvet Island (Bouvetoya),2025-09-26 19:49:55.000
+153,Katie Sanders,Jazz,Bahamas,2025-09-07 19:49:55.000
+154,Cassandra Arroyo,Rock,Argentina,2025-09-28 19:49:55.000
+155,William Wallace,Pop,Falkland Islands (Malvinas),2025-09-29 19:49:55.000
+156,Austin Allen,Rock,British Indian Ocean Territory (Chagos Archipelago),2025-09-26 19:49:55.000
+157,Kristina Brady,Pop,Gabon,2025-09-08 19:49:55.000
+158,Douglas Pollard,Rock,Spain,2025-10-03 19:49:55.000
+159,Kellie Sutton,Rock,French Guiana,2025-09-11 19:49:55.000
+160,Linda Matthews,Classical,Sri Lanka,2025-10-05 19:49:55.000
+161,Susan Hill,Rock,Uruguay,2025-10-05 19:49:55.000
+162,Scott Rivera,Hip-Hop,Sri Lanka,2025-10-04 19:49:55.000
+163,Dr. Devin Roth,Electronic,British Virgin Islands,2025-09-12 19:49:55.000
+164,Michelle Johnson,Pop,United States Minor Outlying Islands,2025-09-18 19:49:55.000
+165,Brittany Morales,Rock,Heard Island and McDonald Islands,2025-09-17 19:49:55.000
+166,Jason Harmon,Hip-Hop,Guyana,2025-09-11 19:49:55.000
+167,Victoria Moran,Hip-Hop,Saudi Arabia,2025-09-30 19:49:55.000
+168,Brian Gibbs,Pop,Belgium,2025-10-02 19:49:55.000
+169,Derek Butler,Electronic,Cyprus,2025-09-12 19:49:55.000
+170,Kyle Eaton,Rock,Iraq,2025-09-14 19:49:55.000
+171,Sarah Watkins,Pop,Nigeria,2025-09-10 19:49:55.000
+172,Andrea Burch,Jazz,Vietnam,2025-09-19 19:49:55.000
+173,Lisa Smith,Hip-Hop,Bouvet Island (Bouvetoya),2025-09-20 19:49:55.000
+174,Wendy Gonzalez,Jazz,Korea,2025-09-23 19:49:55.000
+175,David Sanders,Electronic,Germany,2025-09-14 19:49:55.000
+176,Rodney Rice,Jazz,Egypt,2025-10-01 19:49:55.000
+177,Steven Watkins,Hip-Hop,Cook Islands,2025-10-06 19:49:55.000
+178,William Reese,Jazz,United States of America,2025-09-14 19:49:55.000
+179,Jeffrey Lindsey,Classical,Turks and Caicos Islands,2025-09-23 19:49:55.000
+180,Kyle Gomez,Electronic,Saint Pierre and Miquelon,2025-09-30 19:49:55.000
+181,Derek Obrien,Classical,Netherlands Antilles,2025-09-14 19:49:55.000
+182,Stephen Mcdonald,Electronic,Brunei Darussalam,2025-09-11 19:49:55.000
+183,Garrett Torres,Rock,Saint Lucia,2025-09-19 19:49:55.000
+184,Yvonne Cole,Classical,Lesotho,2025-10-01 19:49:55.000
+185,Miranda Roach,Electronic,Tuvalu,2025-09-12 19:49:55.000
+186,Andrew Avery,Classical,Swaziland,2025-10-03 19:49:55.000
+187,Katelyn Pace,Hip-Hop,Burkina Faso,2025-10-04 19:49:55.000
+188,Richard Vargas,Pop,Grenada,2025-09-28 19:49:55.000
+189,Rachel Torres,Pop,Iran,2025-09-24 19:49:55.000
+190,Michael Ramirez,Pop,Zimbabwe,2025-09-20 19:49:55.000
+191,Deborah Mitchell,Jazz,New Caledonia,2025-09-27 19:49:55.000
+192,Jeff Ware,Hip-Hop,Montenegro,2025-10-03 19:49:55.000
+193,Charles Pearson,Pop,Egypt,2025-09-08 19:49:55.000
+194,Laura Brown,Pop,United States of America,2025-09-20 19:49:55.000
+195,Tracy Wood,Jazz,Greenland,2025-10-01 19:49:55.000
+196,Zachary Blair,Classical,Gabon,2025-09-11 19:49:55.000
+197,Andrea Edwards,Pop,Mauritius,2025-09-25 19:49:55.000
+198,Susan Smith MD,Hip-Hop,Cote d'Ivoire,2025-09-07 19:49:55.000
+199,Eric Miller,Hip-Hop,Czech Republic,2025-10-04 19:49:55.000
+200,Miranda Sullivan,Jazz,Papua New Guinea,2025-09-09 19:49:55.000
+201,Elizabeth Gutierrez,Jazz,Monaco,2025-09-25 19:49:55.000
+202,Amber Miller,Rock,Ghana,2025-10-05 19:49:55.000
+203,Matthew Phillips,Rock,Ukraine,2025-10-02 19:49:55.000
+204,Joel King,Classical,Central African Republic,2025-09-29 19:49:55.000
+205,Julia Osborne,Hip-Hop,Kiribati,2025-10-02 19:49:55.000
+206,Michael Glover,Classical,Afghanistan,2025-09-22 19:49:55.000
+207,Gary Parker,Classical,New Caledonia,2025-10-05 19:49:55.000
+208,Caitlin Cantu,Pop,Niger,2025-09-10 19:49:55.000
+209,Brian Alvarado,Pop,Lebanon,2025-09-19 19:49:55.000
+210,Brian Daniels,Electronic,Namibia,2025-09-30 19:49:55.000
+211,Matthew Johnson,Hip-Hop,Azerbaijan,2025-09-25 19:49:55.000
+212,Gene Perez,Pop,Malta,2025-09-26 19:49:55.000
+213,Curtis Gentry,Electronic,North Macedonia,2025-09-30 19:49:55.000
+214,Peter Harris,Jazz,Iran,2025-09-29 19:49:55.000
+215,Stephanie Bennett,Jazz,Pitcairn Islands,2025-10-03 19:49:55.000
+216,Matthew Walker,Classical,Thailand,2025-10-07 19:49:55.000
+217,Craig Scott,Classical,Equatorial Guinea,2025-09-24 19:49:55.000
+218,Jo Contreras,Jazz,Greece,2025-09-22 19:49:55.000
+219,James Page,Classical,Zimbabwe,2025-10-02 19:49:55.000
+220,Timothy Rollins,Electronic,Congo,2025-09-09 19:49:55.000
+221,Paul Guerrero,Electronic,Morocco,2025-10-01 19:49:55.000
+222,Richard Brady,Jazz,Northern Mariana Islands,2025-10-02 19:49:55.000
+223,Nancy Holloway,Rock,Kenya,2025-09-16 19:49:55.000
+224,Patricia Marquez,Rock,Saint Martin,2025-09-15 19:49:55.000
+225,Peter Baker,Classical,Seychelles,2025-09-28 19:49:55.000
+226,Rebecca Boyer,Pop,Madagascar,2025-09-29 19:49:55.000
+227,Kevin Zimmerman,Classical,Hungary,2025-09-08 19:49:55.000
+228,Christopher Henderson Jr.,Jazz,Armenia,2025-09-07 19:49:55.000
+229,Beth White,Jazz,Syrian Arab Republic,2025-09-27 19:49:55.000
+230,Ashley Carroll,Hip-Hop,Andorra,2025-09-28 19:49:55.000
+231,Courtney Crawford,Jazz,Belgium,2025-09-29 19:49:55.000
+232,Ashley Oneal,Rock,Denmark,2025-09-09 19:49:55.000
+233,Sean Joseph,Electronic,Monaco,2025-09-19 19:49:55.000
+234,Emily King,Classical,Sweden,2025-09-19 19:49:55.000
+235,Carrie Williams,Classical,British Virgin Islands,2025-09-21 19:49:55.000
+236,Todd Macdonald,Pop,Turkmenistan,2025-10-02 19:49:55.000
+237,Tracy Watts,Rock,Martinique,2025-10-06 19:49:55.000
+238,Savannah Evans,Jazz,China,2025-09-07 19:49:55.000
+239,Crystal Walker,Rock,France,2025-09-18 19:49:55.000
+240,Maria Taylor,Electronic,Palau,2025-09-28 19:49:55.000
+241,Justin Williams,Pop,Suriname,2025-09-17 19:49:55.000
+242,Rhonda Williams DDS,Hip-Hop,Philippines,2025-09-24 19:49:55.000
+243,Leslie Holt,Jazz,Myanmar,2025-09-20 19:49:55.000
+244,Christina Harrison,Pop,Puerto Rico,2025-09-26 19:49:55.000
+245,Mark Gallegos,Classical,Greenland,2025-09-29 19:49:55.000
+246,Melanie Hunt,Jazz,Marshall Islands,2025-09-27 19:49:55.000
+247,Mark Dennis Jr.,Jazz,Saint Helena,2025-10-04 19:49:55.000
+248,Julie Caldwell DDS,Electronic,Dominican Republic,2025-09-29 19:49:55.000
+249,Susan Buchanan,Electronic,Zambia,2025-09-22 19:49:55.000
+250,David Crane,Jazz,Taiwan,2025-09-28 19:49:55.000
+251,Mary Moore,Hip-Hop,Bahamas,2025-10-03 19:49:55.000
+252,William Smith,Jazz,Korea,2025-09-18 19:49:55.000
+253,Zoe Johnson,Pop,Dominica,2025-09-20 19:49:55.000
+254,Matthew Montgomery,Rock,Haiti,2025-10-03 19:49:55.000
+255,Kristen Jones,Pop,Papua New Guinea,2025-09-25 19:49:55.000
+256,Terri Small,Electronic,Lithuania,2025-10-07 19:49:55.000
+257,Miss Toni Miller,Jazz,Saint Kitts and Nevis,2025-09-24 19:49:55.000
+258,Brandi West,Hip-Hop,Panama,2025-09-30 19:49:55.000
+259,Marie Medina,Hip-Hop,Solomon Islands,2025-09-16 19:49:55.000
+260,Sarah Johnson,Rock,United States Minor Outlying Islands,2025-09-08 19:49:55.000
+261,Elizabeth Sanders,Electronic,British Indian Ocean Territory (Chagos Archipelago),2025-09-30 19:49:55.000
+262,Sharon Hernandez,Pop,Pakistan,2025-10-02 19:49:55.000
+263,Christina Huang,Hip-Hop,Lithuania,2025-09-16 19:49:55.000
+264,Amy Reed,Rock,Liechtenstein,2025-10-07 19:49:55.000
+265,Debra Paul,Rock,United States Minor Outlying Islands,2025-09-22 19:49:55.000
+266,Jennifer Anderson,Jazz,Greece,2025-10-07 19:49:55.000
+267,Morgan Lozano,Electronic,Saint Pierre and Miquelon,2025-09-09 19:49:55.000
+268,Cody Lee,Classical,Vietnam,2025-09-28 19:49:55.000
+269,Julia Jensen,Classical,Tanzania,2025-09-14 19:49:55.000
+270,Shawn Parker,Pop,Saint Kitts and Nevis,2025-09-14 19:49:55.000
+271,Alexander Garner,Hip-Hop,Gambia,2025-10-06 19:49:55.000
+272,Levi Leon,Classical,Tanzania,2025-10-03 19:49:55.000
+273,Laura Mendez,Pop,Ethiopia,2025-09-28 19:49:55.000
+274,Kristen Lewis,Electronic,Spain,2025-09-18 19:49:55.000
+275,Timothy Wolf,Pop,Saint Martin,2025-09-23 19:49:55.000
+276,Nicole Sweeney,Classical,Cayman Islands,2025-09-11 19:49:55.000
+277,Sandra Calderon,Pop,Bolivia,2025-10-04 19:49:55.000
+278,Richard Hernandez,Electronic,Jamaica,2025-09-22 19:49:55.000
+279,Randy Bates MD,Pop,Bangladesh,2025-09-10 19:49:55.000
+280,Zachary Coleman,Hip-Hop,Guatemala,2025-09-07 19:49:55.000
+281,Edward Poole,Hip-Hop,Madagascar,2025-09-30 19:49:55.000
+282,Angela Warner,Pop,Korea,2025-09-08 19:49:55.000
+283,Jo Marquez,Jazz,Colombia,2025-09-18 19:49:55.000
+284,Shane Gibson,Jazz,Seychelles,2025-09-07 19:49:55.000
+285,Carlos Boyd,Jazz,Chad,2025-09-22 19:49:55.000
+286,Erica Lee,Electronic,Cocos (Keeling) Islands,2025-10-01 19:49:55.000
+287,Kimberly Santiago,Hip-Hop,United States Minor Outlying Islands,2025-09-08 19:49:55.000
+288,Scott Freeman,Jazz,Serbia,2025-09-12 19:49:55.000
+289,Jessica James,Hip-Hop,Tunisia,2025-10-06 19:49:55.000
+290,Brett Townsend,Rock,Libyan Arab Jamahiriya,2025-10-07 19:49:55.000
+291,William Cain,Pop,Serbia,2025-09-22 19:49:55.000
+292,Bryan Wallace,Pop,Tanzania,2025-09-20 19:49:55.000
+293,Christy Clarke,Rock,Portugal,2025-09-15 19:49:55.000
+294,Mr. James Moore,Electronic,Germany,2025-09-18 19:49:55.000
+295,April Cook,Jazz,Timor-Leste,2025-10-06 19:49:55.000
+296,Ronald Duncan DDS,Jazz,Ireland,2025-09-29 19:49:55.000
+297,Tony Reed,Jazz,Colombia,2025-09-22 19:49:55.000
+298,Timothy Owen,Rock,Bosnia and Herzegovina,2025-09-13 19:49:55.000
+299,Amanda Howell,Hip-Hop,Bermuda,2025-09-22 19:49:55.000
+300,Jaime Mason,Classical,Tunisia,2025-09-24 19:49:55.000
+301,Tammy Cooper,Electronic,Jordan,2025-09-10 19:49:55.000
+302,Bethany Ayala,Pop,Belarus,2025-09-09 19:49:55.000
+303,Mrs. Amy Brown,Pop,Botswana,2025-09-19 19:49:55.000
+304,Samantha Molina,Hip-Hop,Uganda,2025-09-10 19:49:55.000
+305,Pamela Garcia,Jazz,Bangladesh,2025-09-14 19:49:55.000
+306,Gwendolyn Moore,Pop,Madagascar,2025-09-26 19:49:55.000
+307,Anthony Hill,Hip-Hop,Kuwait,2025-09-10 19:49:55.000
+308,William Hernandez,Jazz,Faroe Islands,2025-09-19 19:49:55.000
+309,Scott Lawson,Electronic,Lesotho,2025-09-24 19:49:55.000
+310,Brooke Smith,Jazz,Azerbaijan,2025-09-15 19:49:55.000
+311,Michael Rice,Pop,Denmark,2025-09-09 19:49:55.000
+312,Michael Crawford,Rock,Belgium,2025-09-23 19:49:55.000
+313,Randy Garza,Classical,Heard Island and McDonald Islands,2025-10-01 19:49:55.000
+314,Patricia Wheeler,Classical,Libyan Arab Jamahiriya,2025-09-25 19:49:55.000
+315,Daniel Ramos,Jazz,Netherlands Antilles,2025-09-22 19:49:55.000
+316,Thomas Shepherd,Classical,United States Minor Outlying Islands,2025-09-26 19:49:55.000
+317,Kristen Reed,Pop,Saint Lucia,2025-09-28 19:49:55.000
+318,Michael George,Pop,Pitcairn Islands,2025-09-17 19:49:55.000
+319,Christine Murray,Classical,Suriname,2025-09-13 19:49:55.000
+320,Kristina Schroeder,Hip-Hop,Turkey,2025-10-05 19:49:55.000
+321,Julia Thomas,Hip-Hop,Nigeria,2025-09-28 19:49:55.000
+322,Brandy West,Rock,Myanmar,2025-09-15 19:49:55.000
+323,Erica Jones,Rock,Korea,2025-09-28 19:49:55.000
+324,Charles Howard,Jazz,Lithuania,2025-09-20 19:49:55.000
+325,Amanda Blankenship,Hip-Hop,Portugal,2025-09-25 19:49:55.000
+326,Elizabeth King,Jazz,Uganda,2025-09-29 19:49:55.000
+327,Margaret Reese,Rock,Barbados,2025-09-28 19:49:55.000
+328,Angela Mitchell,Hip-Hop,Algeria,2025-10-05 19:49:55.000
+329,Emily Murphy,Pop,Russian Federation,2025-09-10 19:49:55.000
+330,William Schmidt,Classical,Guinea,2025-09-19 19:49:55.000
+331,Joseph Silva,Electronic,Mongolia,2025-09-11 19:49:55.000
+332,Gregory Whitaker,Classical,Guinea,2025-10-02 19:49:55.000
+333,Misty Vargas,Classical,Ghana,2025-09-28 19:49:55.000
+334,Toni Bennett,Classical,Botswana,2025-09-17 19:49:55.000
+335,Logan Baker,Classical,Guatemala,2025-09-14 19:49:55.000
+336,Jamie Rosales PhD,Rock,Mayotte,2025-09-11 19:49:55.000
+337,Dominic Gilmore,Electronic,South Georgia and the South Sandwich Islands,2025-09-14 19:49:55.000
+338,Mr. Anthony Harris,Pop,United States Minor Outlying Islands,2025-09-07 19:49:55.000
+339,Sierra Boone,Rock,Northern Mariana Islands,2025-09-19 19:49:55.000
+340,Steven Banks,Rock,Saint Vincent and the Grenadines,2025-09-22 19:49:55.000
+341,Mason Wilson,Electronic,Chad,2025-09-14 19:49:55.000
+342,Misty Robinson,Jazz,Indonesia,2025-09-12 19:49:55.000
+343,Michael Garcia,Pop,Guam,2025-09-18 19:49:55.000
+344,Tracy Thompson,Electronic,Togo,2025-10-05 19:49:55.000
+345,Patrick Khan,Pop,Reunion,2025-09-09 19:49:55.000
+346,Savannah Ballard,Electronic,Mozambique,2025-09-21 19:49:55.000
+347,Nathan Casey,Rock,Afghanistan,2025-10-02 19:49:55.000
+348,Tina Eaton,Classical,Luxembourg,2025-09-29 19:49:55.000
+349,Shannon Hood,Jazz,Congo,2025-10-02 19:49:55.000
+350,David Blanchard,Electronic,Trinidad and Tobago,2025-09-17 19:49:55.000
+351,Deanna Smith,Pop,Kyrgyz Republic,2025-09-23 19:49:55.000
+352,Brittney Lawrence,Rock,Mayotte,2025-09-27 19:49:55.000
+353,Jennifer Silva,Hip-Hop,Macao,2025-10-02 19:49:55.000
+354,Shane Richardson,Electronic,Montenegro,2025-09-21 19:49:55.000
+355,Adam Gomez,Rock,Costa Rica,2025-09-26 19:49:55.000
+356,Susan Durham,Jazz,Cambodia,2025-09-15 19:49:55.000
+357,Jamie Nelson,Rock,Mozambique,2025-09-25 19:49:55.000
+358,Anthony Cross,Classical,Qatar,2025-09-14 19:49:55.000
+359,Ashley Nelson,Jazz,Estonia,2025-09-09 19:49:55.000
+360,Charles Alexander,Electronic,Brazil,2025-09-21 19:49:55.000
+361,Terry Nunez,Electronic,Palau,2025-10-01 19:49:55.000
+362,Daniel Weaver,Jazz,Mozambique,2025-09-11 19:49:55.000
+363,Dana Neal,Jazz,Romania,2025-09-11 19:49:55.000
+364,Tony Rodriguez,Jazz,Fiji,2025-09-21 19:49:55.000
+365,Dana Wilson,Pop,Djibouti,2025-09-15 19:49:55.000
+366,Eric Walker,Pop,Serbia,2025-09-15 19:49:55.000
+367,Julie Lopez,Electronic,Cameroon,2025-09-26 19:49:55.000
+368,Zachary Davis,Jazz,Taiwan,2025-09-27 19:49:55.000
+369,Diane Walton,Jazz,Saint Pierre and Miquelon,2025-09-08 19:49:55.000
+370,Jennifer White,Pop,Cocos (Keeling) Islands,2025-09-21 19:49:55.000
+371,Regina Martin,Jazz,Bouvet Island (Bouvetoya),2025-10-04 19:49:55.000
+372,William Martin,Pop,Bolivia,2025-09-07 19:49:55.000
+373,Alexander Robinson,Electronic,Dominican Republic,2025-10-02 19:49:55.000
+374,Lindsay Murray MD,Jazz,Venezuela,2025-09-24 19:49:55.000
+375,Paul Sanders,Electronic,Saint Vincent and the Grenadines,2025-09-27 19:49:55.000
+376,Jennifer Montoya,Electronic,Uruguay,2025-09-18 19:49:55.000
+377,Katherine Knox,Classical,Singapore,2025-09-28 19:49:55.000
+378,Heather Cain,Pop,Guernsey,2025-09-22 19:49:55.000
+379,Kimberly Reed,Pop,Vanuatu,2025-09-17 19:49:55.000
+380,Kathryn Harvey,Classical,Pakistan,2025-10-03 19:49:55.000
+381,Lori Hart,Electronic,Dominican Republic,2025-09-16 19:49:55.000
+382,Billy Chavez,Rock,Kyrgyz Republic,2025-09-08 19:49:55.000
+383,Dakota Santiago,Pop,Estonia,2025-09-28 19:49:55.000
+384,Sara Beck,Electronic,Reunion,2025-10-02 19:49:55.000
+385,Yolanda Thompson,Electronic,Macao,2025-09-28 19:49:55.000
+386,Hannah Mcdonald,Pop,Malta,2025-09-09 19:49:55.000
+387,Jennifer Perez,Electronic,Reunion,2025-09-28 19:49:55.000
+388,Michael Clark DDS,Jazz,Western Sahara,2025-09-16 19:49:55.000
+389,James Smith,Hip-Hop,Thailand,2025-09-08 19:49:55.000
+390,Sophia Myers,Pop,Benin,2025-09-11 19:49:55.000
+391,Robert Watts,Hip-Hop,Sao Tome and Principe,2025-09-18 19:49:55.000
+392,Jason Harrell,Jazz,French Polynesia,2025-10-07 19:49:55.000
+393,Christina Ramos,Pop,India,2025-09-13 19:49:55.000
+394,William Figueroa,Pop,Bouvet Island (Bouvetoya),2025-09-17 19:49:55.000
+395,Michael Golden,Classical,Nigeria,2025-09-16 19:49:55.000
+396,Michelle Richardson,Pop,Solomon Islands,2025-09-22 19:49:55.000
+397,Dorothy Rodriguez,Classical,Philippines,2025-09-20 19:49:55.000
+398,Gregory Raymond,Jazz,United Kingdom,2025-09-13 19:49:55.000
+399,Justin Owens,Electronic,Nauru,2025-09-27 19:49:55.000
+400,April Barrett,Rock,Martinique,2025-10-04 19:49:55.000
+401,Paula Taylor,Pop,El Salvador,2025-09-22 19:49:55.000
+402,Brandy Robinson,Electronic,Northern Mariana Islands,2025-09-15 19:49:55.000
+403,John Smith MD,Rock,Ethiopia,2025-09-24 19:49:55.000
+404,Philip House,Pop,Bahrain,2025-10-07 19:49:55.000
+405,Karen Clark,Rock,Cyprus,2025-09-14 19:49:55.000
+406,Amy Torres,Electronic,Saint Barthelemy,2025-09-10 19:49:55.000
+407,Kathryn Horne,Hip-Hop,Panama,2025-09-30 19:49:55.000
+408,Jamie Brown,Rock,Nepal,2025-09-15 19:49:55.000
+409,Gabrielle Medina,Pop,Tuvalu,2025-09-22 19:49:55.000
+410,Dennis Scott,Hip-Hop,Andorra,2025-09-13 19:49:55.000
+411,Jeffery Hahn,Hip-Hop,Niue,2025-09-15 19:49:55.000
+412,Dustin Davis,Pop,Switzerland,2025-09-07 19:49:55.000
+413,Matthew Powell,Pop,Romania,2025-09-29 19:49:55.000
+414,Kristopher Barber,Hip-Hop,Ukraine,2025-09-16 19:49:55.000
+415,Michael Robertson,Rock,Serbia,2025-09-18 19:49:55.000
+416,Pam Hahn,Electronic,Romania,2025-09-18 19:49:55.000
+417,John Burch,Rock,Belgium,2025-09-09 19:49:55.000
+418,Mary Watts,Hip-Hop,Ukraine,2025-10-07 19:49:55.000
+419,Lori Love,Classical,Lithuania,2025-09-15 19:49:55.000
+420,Joseph Hunt,Pop,Saint Vincent and the Grenadines,2025-10-02 19:49:55.000
+421,Brian Brown,Jazz,Belarus,2025-09-12 19:49:55.000
+422,Aaron Wallace,Electronic,Malta,2025-09-07 19:49:55.000
+423,Kathryn Wallace,Classical,Korea,2025-09-22 19:49:55.000
+424,Kristie Wilkerson,Electronic,Turkmenistan,2025-09-26 19:49:55.000
+425,Deborah Bass,Rock,Serbia,2025-10-01 19:49:55.000
+426,Bradley Alvarado,Rock,Estonia,2025-09-09 19:49:55.000
+427,Laurie Giles,Hip-Hop,Syrian Arab Republic,2025-09-30 19:49:55.000
+428,Alexander Rodriguez,Pop,Fiji,2025-09-20 19:49:55.000
+429,Kelli Turner,Pop,Latvia,2025-10-07 19:49:55.000
+430,Kristine Jackson,Rock,Grenada,2025-09-09 19:49:55.000
+431,Patrick Bradley,Pop,Sweden,2025-09-12 19:49:55.000
+432,Kathleen Anderson,Pop,Bahrain,2025-09-27 19:49:55.000
+433,Steven Williams,Hip-Hop,Portugal,2025-09-15 19:49:55.000
+434,April Rangel,Rock,New Caledonia,2025-09-25 19:49:55.000
+435,Paula Benitez,Jazz,India,2025-09-27 19:49:55.000
+436,Monica Roth,Rock,Grenada,2025-09-16 19:49:55.000
+437,Anthony Ryan,Pop,Belarus,2025-10-04 19:49:55.000
+438,Alyssa Ruiz,Rock,Sudan,2025-09-09 19:49:55.000
+439,Kaylee Adams,Electronic,Tuvalu,2025-09-08 19:49:55.000
+440,Alexander Aguirre,Rock,Sudan,2025-09-08 19:49:55.000
+441,Edward Moses,Jazz,Cape Verde,2025-10-07 19:49:55.000
+442,Donald Harris,Jazz,Heard Island and McDonald Islands,2025-09-24 19:49:55.000
+443,David Fitzgerald,Hip-Hop,Chile,2025-09-14 19:49:55.000
+444,Christian Massey,Pop,Korea,2025-09-29 19:49:55.000
+445,Madison Jones,Classical,Georgia,2025-10-04 19:49:55.000
+446,Emily Jensen,Pop,Norfolk Island,2025-10-06 19:49:55.000
+447,David White,Rock,Korea,2025-09-08 19:49:55.000
+448,Jennifer Hart,Jazz,Armenia,2025-09-21 19:49:55.000
+449,George Jimenez,Electronic,Malta,2025-09-30 19:49:55.000
+450,Kristina Gonzalez,Classical,Slovenia,2025-09-11 19:49:55.000
+451,Mark Garcia,Pop,Portugal,2025-09-23 19:49:55.000
+452,Kirsten Harris,Jazz,Isle of Man,2025-09-21 19:49:55.000
+453,Olivia Cooper,Jazz,Finland,2025-09-13 19:49:55.000
+454,Victoria Williams,Hip-Hop,British Indian Ocean Territory (Chagos Archipelago),2025-10-06 19:49:55.000
+455,Alexis Pineda,Electronic,Niger,2025-10-07 19:49:55.000
+456,Crystal Lewis,Classical,Saint Lucia,2025-09-19 19:49:55.000
+457,Dylan Garcia,Pop,Tuvalu,2025-09-22 19:49:55.000
+458,Samantha Chase,Hip-Hop,Cuba,2025-10-02 19:49:55.000
+459,Joann Pratt,Hip-Hop,Czech Republic,2025-09-23 19:49:55.000
+460,Jennifer Roberts,Electronic,Kuwait,2025-10-01 19:49:55.000
+461,Dean Sherman,Pop,Lao People's Democratic Republic,2025-09-26 19:49:55.000
+462,Jasmine Rogers,Hip-Hop,North Macedonia,2025-09-09 19:49:55.000
+463,Michael Irwin,Pop,Tokelau,2025-09-23 19:49:55.000
+464,Charles Gardner,Hip-Hop,Serbia,2025-10-02 19:49:55.000
+465,Susan Aguilar,Electronic,Lithuania,2025-10-04 19:49:55.000
+466,Sharon Francis,Jazz,Papua New Guinea,2025-09-14 19:49:55.000
+467,Joshua Sexton,Hip-Hop,Malawi,2025-09-11 19:49:55.000
+468,Tina Murphy,Electronic,Jamaica,2025-09-19 19:49:55.000
+469,Lisa Obrien,Rock,Venezuela,2025-09-10 19:49:55.000
+470,Matthew Ortiz Jr.,Hip-Hop,Monaco,2025-09-19 19:49:55.000
+471,Alex Mcclure,Jazz,Reunion,2025-09-13 19:49:55.000
+472,Patricia Salas,Electronic,Venezuela,2025-09-16 19:49:55.000
+473,Angela Moore,Electronic,Kazakhstan,2025-09-16 19:49:55.000
+474,Johnny Carey,Rock,Canada,2025-09-07 19:49:55.000
+475,Dawn Padilla,Hip-Hop,Paraguay,2025-09-14 19:49:55.000
+476,Michael Robinson,Jazz,Falkland Islands (Malvinas),2025-09-18 19:49:55.000
+477,Kevin Nelson,Hip-Hop,South Georgia and the South Sandwich Islands,2025-09-26 19:49:55.000
+478,Elijah Schneider,Pop,Guam,2025-09-10 19:49:55.000
+479,Nancy Miller,Pop,Saint Martin,2025-09-24 19:49:55.000
+480,Danielle Cole,Electronic,Antarctica (the territory South of 60 deg S),2025-09-15 19:49:55.000
+481,Mary Brooks,Electronic,San Marino,2025-10-06 19:49:55.000
+482,Leslie Gilbert,Classical,Guadeloupe,2025-09-16 19:49:55.000
+483,Michael Huff,Classical,Sierra Leone,2025-09-24 19:49:55.000
+484,Eric Beck,Pop,Lithuania,2025-09-18 19:49:55.000
+485,Nicole Mueller,Classical,Ireland,2025-09-17 19:49:55.000
+486,Christina Calhoun,Jazz,Korea,2025-09-24 19:49:55.000
+487,Andrew Boyle,Jazz,Jersey,2025-09-12 19:49:55.000
+488,Frederick Webb,Hip-Hop,Mauritius,2025-09-13 19:49:55.000
+489,Collin Dodson,Pop,Croatia,2025-09-28 19:49:55.000
+490,Bradley Shaw,Pop,Portugal,2025-09-14 19:49:55.000
+491,Julie Mccarthy MD,Classical,Egypt,2025-09-08 19:49:55.000
+492,Mark Coleman,Pop,North Macedonia,2025-10-02 19:49:55.000
+493,Dennis Parker,Hip-Hop,Bulgaria,2025-09-27 19:49:55.000
+494,Jennifer Gregory,Rock,Brazil,2025-09-29 19:49:55.000
+495,Melissa Scott,Jazz,Congo,2025-09-09 19:49:55.000
+496,Tim Tucker,Electronic,China,2025-10-05 19:49:55.000
+497,Jason Sanchez,Pop,Trinidad and Tobago,2025-09-22 19:49:55.000
+498,Kiara Frost,Hip-Hop,Iceland,2025-09-29 19:49:55.000
+499,Gina King,Electronic,Norfolk Island,2025-09-09 19:49:55.000
+500,Lawrence Espinoza,Hip-Hop,Cambodia,2025-09-22 19:49:55.000
